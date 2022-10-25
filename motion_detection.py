@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
-"""Motion Detection
-
+ -*- coding: utf-8 -*-
+Motion Detection
+#Some imports and functions provided by UCSC
 """---"""
 
 import numpy as np
